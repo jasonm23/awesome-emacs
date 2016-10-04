@@ -699,6 +699,7 @@ External Guides:
   - [[https://github.com/lunaryorn/.emacs.d][.emacs.d]] - Sebastian Wiesner (@lunaryorn): Flycheck
   - [[https://github.com/grettke/home][home]] - Grant Rhettke (@grettke)
   - [[https://github.com/abo-abo/oremacs][oremacs]] - Oleh Krehel (@abo-abo) : Swiper, Ivy, Hydra, Avy
+  - [[https://github.com/ocodo/.emacs.d][ocodo .emacs.d]] - Ocodo/JasonM23 : @emacs_gifs, EmacsFodder
   - [[https://github.com/kaushalmodi/.emacs.d][.emacs.d]] - Kaushal Modi (@kaushalmodi)
   - [[https://github.com/ejmr/DotEmacs][DotEmacs]] - Eric James Michael Ritz (@ejmr)
   - [[https://github.com/thierryvolpiatto/emacs-tv-config][emacs-tv-config]] - Thierry Volpiatto (@thierryvolpiatto) : Helm Maintainer
